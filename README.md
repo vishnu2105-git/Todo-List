@@ -4,7 +4,7 @@
 --You can also update your username if not 'root'
 --prior create an database with name todos in your mysql
 
-->>
+
 CREATE DATABASE todos_db;
 USE todos_db;
 
@@ -16,7 +16,9 @@ CREATE TABLE todos (
 
 
 To Run: 
+
 Step-1:
+
 open a new terminal
 
 cd my-app
@@ -24,6 +26,7 @@ cd backend
 node server.js
 
 Step-2:
+
 open a new terminal
 
 cd my-app
